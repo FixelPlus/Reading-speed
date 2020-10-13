@@ -1,0 +1,51 @@
+.isort{
+    height: 350px;
+    width: 500px;
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: center;
+}
+.main_page{
+    /*position: relative;*/
+    display:block;
+    margin: auto;
+    text-align: center;
+    height: 1000px;
+    width: 700px;
+    background-color: rgb(98, 114, 117);
+    border: 2px solid orange;
+}
+button{
+width: 60px;
+height: 40px;
+margin: 2%;
+background-color:#555 ;
+border: none;
+border-radius: 0;
+color:#fff;
+font-size: 18px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+#myImage{
+    height: 650px;
+    overflow: auto;
+}
+#pageCount{
+    font-size: 20px;
+}
+
+.picture{
+  border: 2px solid red;
+  
+}
+#next:hover{
+    background-color: #111;
+}
+#start:hover{
+    background-color: #111;
+}
+#finish{
+  
+}
+
